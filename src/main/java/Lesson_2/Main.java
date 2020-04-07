@@ -11,7 +11,6 @@ public class Main {
     //private static PreparedStatement pstmt;
     private static final String TABLE = "students";
 
-
     public static void main(String[] args) throws SQLException {
 
         try {
