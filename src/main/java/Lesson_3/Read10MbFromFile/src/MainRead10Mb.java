@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class Read10Mb {
+public class MainRead10Mb {
 
     public static void main(String[] args) {
         Scanner getFilePath = new Scanner(System.in);
