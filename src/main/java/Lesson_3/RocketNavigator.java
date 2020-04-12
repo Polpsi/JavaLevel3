@@ -11,7 +11,7 @@ import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class MissileNavigator {
+public class RocketNavigator {
     static Socket socket;
     static DataInputStream stream;
 

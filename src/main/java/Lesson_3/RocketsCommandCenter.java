@@ -6,7 +6,7 @@ package Lesson_3;
 import java.io.*;
 import java.net.Socket;
 
-public class RocketCommandCenter {
+public class RocketsCommandCenter {
     private static String server = "127.0.0.1";
     private static int port = 12349;
 
